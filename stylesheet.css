@@ -254,3 +254,7 @@ p.body {
 .subheading {
 	font-size: 16px;
 }
+
+.footerheading {
+    font-weight: bold;
+}
