@@ -263,3 +263,11 @@ table.teachart {
 .footerheading {
     font-weight: bold;
 }
+
+.credit {
+    font-size: 0.8em;
+    font-weight: lighter;
+    color: #000000;
+    clear: both;
+    float: left;
+}
